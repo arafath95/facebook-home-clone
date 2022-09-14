@@ -1,0 +1,13 @@
+body {
+  background-color: #f0f2f5;
+}
+* {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+.NewFeed {
+  flex: 5;
+}
+.leftSidebar {
+  flex: 3;
+}
