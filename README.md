@@ -1,6 +1,6 @@
 # FB clone Site
 
-# code link : [Code Link](https://gitlab.com/arafath_shemanto/clone-fb-home)
+# code link : [Code Link](https://github.com/arafath95/facebook-home-clone)
 
 # Live Link : [Live Link](https://fb-clone-13b96.firebaseapp.com/).
 
