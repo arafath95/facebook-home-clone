@@ -6,12 +6,12 @@
 
 ## Screen Shots
 
-    https://gitlab.com/arafath_shemanto/clone-fb-home/-/blob/master/src/Assets/screenShot/nav.png
+    https://github.com/arafath95/facebook-home-clone/blob/master/src/Assets/screenShot/nav.png
 
-    https://gitlab.com/arafath_shemanto/clone-fb-home/-/blob/master/src/Assets/screenShot/homeCode.png
+    https://github.com/arafath95/facebook-home-clone/blob/master/src/Assets/screenShot/homeCode.png
 
-    https://gitlab.com/arafath_shemanto/clone-fb-home/-/blob/master/src/Assets/screenShot/header.png
+    https://github.com/arafath95/facebook-home-clone/blob/master/src/Assets/screenShot/header.png
 
-    https://gitlab.com/arafath_shemanto/clone-fb-home/-/blob/master/src/Assets/screenShot/fileStructure.png
+    https://github.com/arafath95/facebook-home-clone/blob/master/src/Assets/screenShot/fileStructure.png
 
-    https://gitlab.com/arafath_shemanto/clone-fb-home/-/blob/master/src/Assets/screenShot/error.png
+    https://github.com/arafath95/facebook-home-clone/blob/master/src/Assets/screenShot/error.png
